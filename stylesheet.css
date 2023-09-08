@@ -1,0 +1,20 @@
+h1 {
+  color:red;
+  font-size: 10px;
+  fint-family: serif;
+  backround-color: #dddddd;
+  width: 500px;
+  height: 80px;
+}
+p {color: #000ff;
+  font-size: 40px;
+   font-family: "Avenir Next";
+   backround-color: #ffd800;
+}
+img {
+  width: 500px;
+  height: 200px;
+}
+li {
+  color: red;
+}
